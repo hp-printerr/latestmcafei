@@ -9,7 +9,7 @@ How to Activate MyTv on Your Device using Amazon.com/mytv
       :align: center
       :height: 100px
 
-.. image:: Enter Product Key.png
+.. image:: Enter_Product_Key.png
       :width: 350px
       :align: center
       :height: 100px
