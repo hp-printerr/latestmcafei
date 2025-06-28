@@ -1,6 +1,7 @@
 ##################
-How to Activate MyTv on Your Device using Amazon.com/mytv
+How Do I download and install McAfee on My Device?
 ##################
+
 .. meta::
    :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
 
@@ -13,8 +14,8 @@ How to Activate MyTv on Your Device using Amazon.com/mytv
       :width: 350px
       :align: center
       :height: 100px
-      :alt: amazon.com/mytv
-      :target: https://az.redircoms.com
+      :alt: mcafee.com/activate
+      :target: https://mc.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -27,50 +28,48 @@ How to Activate MyTv on Your Device using Amazon.com/mytv
 
 
 
-There are 5 simple stages to set up and activate Amazon Prime Video on your Smart TV or streaming device. Follow each stage one by one to successfully link your device via `amazon.com/mytv <https://www.amazon.com/mytv>`_. Amazon Prime Video gives you access to thousands of movies and shows. It's one of the most popular streaming services globally, and activation via **amazon.com/mytv** is quick and easy. Visit `amazon.com/mytv <https://www.amazon.com/mytv>`_, enter your activation code, and start streaming instantly.
+There are 5 simple stages to set up and activate your McAfee security product on your computer or device. Follow each stage one by one to successfully link your subscription via `mcafee.com/activate <https://mc.redircoms.com>`_. McAfee provides award-winning antivirus and internet security solutions to protect you from online threats. Activation via **mcafee.com/activate** is quick and easy. Visit `mcafee.com/activate <https://mc.redircoms.com>`_, enter your product key, and start protecting your device instantly.
 
 **********
-Steps to Activate Amazon Prime Video
+Steps to Activate McAfee
 **********
 
-1. Open a web browser and go to `amazon.com/mytv <https://www.amazon.com/mytv>`_.
+1. Open a web browser and go to `mcafee.com/activate <https://mc.redircoms.com>`_.
 
-2. Sign in with your Amazon account credentials. 
+2. Sign in with your McAfee account credentials or create a new account if you don’t have one.
 
-3. On your TV or streaming device, open the Amazon Prime Video app.
+3. Enter your 25-digit product key found on your retail card or email.
 
-4. An activation code will appear on your screen.
+4. Click on **Submit** to verify the key.
 
-5. Enter the displayed code on the `amazon.com/mytv <https://www.amazon.com/mytv>`_ website.
+5. Follow the on-screen instructions to download and install your McAfee product.
 
-6. Click on the Register Device button.
-
-7. Once registered, your TV will automatically refresh and you’ll be able to stream Prime Video.
+6. Once installed, your device will be automatically protected.
 
 **********
-Alternate Method: Register via Mobile App
+Alternate Method: Activate via McAfee Application
 **********
 
-1. Install the Amazon Prime Video app on your smartphone.
+1. Open the McAfee security app installed on your device.
 
-2. Open the app and sign in with your Amazon account.
+2. Sign in with your McAfee account.
 
-3. Go to the Settings menu and choose **Register a device**.
+3. Go to the **My Account** or **Subscription** section.
 
-4. Enter the code shown on your TV screen.
+4. Enter your 25-digit product key when prompted.
 
-5. Tap **Register** and wait for confirmation.
+5. Tap **Activate** and wait for confirmation.
 
 **********
-Connecting Your TV or Streaming Device
+Connecting Your Device to Your McAfee Account
 **********
 
-1. Make sure your TV or streaming device is connected to the internet.
+1. Make sure your computer or device is connected to the internet.
 
-2. Install and open the Amazon Prime Video app.
+2. Install and open the McAfee security app.
 
-3. Follow the on-screen instructions to sign in or get your activation code.
+3. Follow the on-screen instructions to sign in or enter your product key.
 
-4. Use `amazon.com/mytv <https://www.amazon.com/mytv>`_ on your computer or mobile browser to enter the code.
+4. Use `mcafee.com/activate <https://www.mcafee.com/activate>`_ on your computer or mobile browser to complete activation.
 
-5. Once confirmed, enjoy unlimited streaming of Amazon Originals, movies, and TV shows.
+5. Once confirmed, enjoy continuous protection against viruses, malware, and online threats.
