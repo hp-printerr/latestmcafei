@@ -16,16 +16,12 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Amazon Mytv'
+project = 'Mcafee 360'
 
 
 # The full version, including alpha/beta/rc tags
 #release = '1.0.0'
 
-html_static_path = ['_static']
-
-def setup(app):
-    app.add_css_file('custom.css')
 
 html_meta = {
     "msvalidate.01": "108BF3BCC1EC90CA1EBEFF8001FAEFEA"
