@@ -1,4 +1,4 @@
-How to Download, Install, and Activate McAfee Antivirus on Your Device
+mcafee.com/activate: Step-by-step guide for activaton
 =======================================================================
 
 .. meta::
