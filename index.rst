@@ -1,4 +1,4 @@
-mcafee.com/activate: Step-by-step guide for activaton
+How to redeem mcafee activation code already purchased?
 =======================================================================
 
 .. meta::
